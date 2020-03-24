@@ -3,6 +3,7 @@ Solutions to Leetcode problems
 
 |#|Problem|Solution|
 |-|-------|--------|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1.py)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/771.py)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1108.py)|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1221.py)|
