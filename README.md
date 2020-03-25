@@ -11,6 +11,7 @@ Solutions to Leetcode problems
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1281.py)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](https://github.com/limeunhee/leetcode_solutions/tree/master)|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1299.py)|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python|(./1304.py)|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1313.py)|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](./1323.py)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./1342.py)|
