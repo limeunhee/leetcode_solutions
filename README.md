@@ -6,6 +6,8 @@ Solutions to Leetcode problems
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1.py)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/709.py)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/771.py)|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./804.py)|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./832.py)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1108.py)|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1221.py)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1281.py)|
