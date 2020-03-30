@@ -10,6 +10,7 @@ Solutions to Leetcode problems
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./804.py)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./832.py)|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./905.py)|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./961.py)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1108.py)|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1221.py)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1281.py)|
