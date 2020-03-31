@@ -16,6 +16,7 @@ Solutions to Leetcode problems
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./961.py)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./977.py)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1108.py)|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./1207.py)|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1221.py)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1281.py)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](https://github.com/limeunhee/leetcode_solutions/tree/master)|
