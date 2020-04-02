@@ -3,7 +3,7 @@ Solutions to Leetcode problems
 
 |#|Problem|Solution|
 |-|-------|--------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python] (https://github.com/limeunhee/leetcode_solutions/blob/master/1.py)|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./1.py)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./461.py)|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./561.py)|
