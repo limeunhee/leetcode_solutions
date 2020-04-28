@@ -5,6 +5,7 @@ Solutions to Leetcode problems
 |-|-------|--------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./1.py)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./136.py)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./169.js)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./412.py)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./461.py)|
