@@ -7,6 +7,7 @@ Solutions to Leetcode problems
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./122.js)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./136.py)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./169.js)|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.js)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./242.js)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./412.py)|
