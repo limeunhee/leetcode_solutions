@@ -14,6 +14,7 @@ Solutions to Leetcode problems
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./412.py)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./461.py)|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./561.py)|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](./595.sql)|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./657.py)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/709.py)|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./728.py)|
