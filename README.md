@@ -43,3 +43,4 @@ Solutions to Leetcode problems
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/limeunhee/leetcode_solutions/blob/master/1389.py)|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Python](./1394.py)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./1431.py)|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python](./1475.py)|
