@@ -5,6 +5,7 @@ Solutions to Leetcode problems
 |-|-------|--------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./1.py)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./7.js)|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./13.py)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](./120.py)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./122.js)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./136.py)|
